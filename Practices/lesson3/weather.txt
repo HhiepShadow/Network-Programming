@@ -1,0 +1,7 @@
+('Today', 'ShowersLikely thenSlight ChanceShowers', 'High: 72 °F', 'Today: Showers likely and possibly a thunderstorm before 8am, then a chance of showers.  Mostly cloudy, with a high near 72. East wind around 11 mph.  Chance of precipitation is 70%. New precipitation amounts between a tenth and quarter of an inch, except higher amounts possible in thunderstorms. ')
+('Tonight', 'Mostly Cloudy', 'Low: 69 °F', 'Tonight: Mostly cloudy, with a low around 69. East wind 6 to 8 mph. ')
+('Saturday', 'Partly Sunnythen SlightChanceShowers', 'High: 77 °F', 'Saturday: A 20 percent chance of showers after 2pm.  Partly sunny, with a high near 77. Southeast wind 6 to 11 mph. ')
+('Saturday Night', 'ShowersLikely', 'Low: 76 °F', 'Saturday Night: A slight chance of showers and thunderstorms, then showers likely and possibly a thunderstorm after 8pm.  Mostly cloudy, with a steady temperature around 76. South wind 8 to 10 mph.  Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. ')
+('Sunday', 'ChanceShowers', 'High: 83 °F', 'Sunday: A chance of showers, with thunderstorms also possible after 2pm.  Partly sunny, with a high near 83. Southwest wind 8 to 11 mph.  Chance of precipitation is 40%.')
+('Sunday Night', 'Partly Cloudy', 'Low: 66 °F', 'Sunday Night: Partly cloudy, with a low around 66.')
+('Labor Day', 'Sunny', 'High: 75 °F', 'Labor Day: Sunny, with a high near 75.')

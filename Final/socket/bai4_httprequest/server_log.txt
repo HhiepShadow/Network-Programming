@@ -1,0 +1,4 @@
+2024-12-13 14:45:16 - User user1 logged in
+2024-12-13 14:45:39 - User user1 sent an HTTP request
+2024-12-13 14:50:16 - User user1 logged in
+2024-12-13 14:50:18 - User user1 sent an HTTP request

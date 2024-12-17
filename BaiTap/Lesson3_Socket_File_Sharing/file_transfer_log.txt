@@ -1,0 +1,7 @@
+UPLOAD | hello.txt | ('127.0.0.1', 53187)
+UPLOAD | ./hello.txt | ('127.0.0.1', 12765)
+DOWNLOAD | hello.txt | ('127.0.0.1', 13260)
+DOWNLOAD | hello.txt | ('127.0.0.1', 13685)
+DOWNLOAD | hello.txt | ('127.0.0.1', 14170)
+DOWNLOAD | ./Lesson3_Socket_File_Sharing/hello.txt | ('127.0.0.1', 18095)
+DOWNLOAD | hello.txt | ('127.0.0.1', 18167)

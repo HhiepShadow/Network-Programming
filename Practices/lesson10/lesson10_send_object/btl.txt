@@ -1,0 +1,7 @@
+Tạo mô hình client server:
+- Có 1 thư mục
+- file có dạng tenfile_h_m_s_d_month_year
+- Client sẽ tự động phát hiện các file đã được thêm vào thư mục
+- Client gửi thư mục chứa các file vào server
+- Thư viện watchdog
+- Sau mỗi 1 khoảng thời gian nào đó, server sẽ tạo 1 thư mục mới
